@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudentList</string>
+    <string name="insert_student">INSERT STUDENT</string>
+    <string name="name">Naura Putri</string>
+    <string name="nim">1301143434</string>
+    <string name="fakultas">Fakultas Informatika</string>
+</resources>
